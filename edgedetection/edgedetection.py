@@ -26,7 +26,6 @@ while True:
     cv2.imshow('SobelY', sobely)
 
     k = cv2.waitKey(5) & 0xFF
-
     if k == 27:
         break
 
@@ -35,7 +34,6 @@ while True:
 # cv2.imwrite('Laplacian.jpg', laplacian)
 # cv2.imwrite('Sobelx.jpg', sobelx)
 # cv2.imwrite('Sobely.jpg', sobely)
-
 
 cv2.destroyAllWindows()
 cap.release()

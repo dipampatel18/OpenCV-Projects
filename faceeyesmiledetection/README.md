@@ -11,7 +11,7 @@
 - Your laptop webcam will turn on and a window will pop up wherein you will be able to see your face and eyes being detected and a bounding box being drawn around it
 
 <p align="center">
-  <img width="580" height="320" src="/faceeyesmiledetection/Face and Eye.jpg">
+  <img width="550" height="400" src="/faceeyesmiledetection/Face and Eye.jpg">
 </p>
 
 - To detect the smile as well, uncomment the code of smile from the python file.

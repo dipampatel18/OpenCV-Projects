@@ -10,6 +10,6 @@ Your laptop webcam will turn on and a window will pop up wherein you will be abl
 
 To detect the smile as well, uncomment the code of smile from the python file.
 
-<p align="center>
-          <img src="Face and Eye.jpg">
+<p align="center">
+  <img width="580" height="320" src="/Face and Eye.jpg">
 </p>
